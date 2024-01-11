@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+body {
+  background-color: #454545;
+  color: #fff;
+}
+.line-through {
+  text-decoration: line-through;
+}
+.border-color {
+  background-color: lightgreen;
+}
